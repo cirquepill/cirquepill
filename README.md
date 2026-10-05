@@ -4,7 +4,7 @@
 <a href="https://hits.sh/github.com/cirquepill/hits/"><img alt="Hits" src="https://hits.sh/github.com/cirquepill/hits.svg?label=%E2%A4%B7%20FREAKS%20%2C&color=5fe128"/></a>
 
 <!-- 2. Spot for your image -->
-<img src="https://files.catbox.moe/vfc3mp.png" alt="Project Screenshot" width="400">
+<img src="https://files.catbox.moe/vfc3mp.png" alt="Project Screenshot" width="200" height="200">
 
 </div>
 
